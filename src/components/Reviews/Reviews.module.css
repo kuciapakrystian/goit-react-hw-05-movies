@@ -1,0 +1,38 @@
+.list {
+    margin-bottom: 40px;
+  }
+  
+  .item {
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgb(78, 116, 193);
+  }
+  
+  .name {
+    color: rgb(255, 89, 0);
+    font-size: 28px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+  }
+  
+  .error {
+    color: #fff;
+    font-size: 26px;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .text {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 14px;
+  }
+  
+  .date {
+    color: #fff;
+    font-size: 10px;
+    font-weight: 300;
+    margin-bottom: 14px;
+  }
