@@ -1,0 +1,11 @@
+.error {
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+  }
+  
+  .react-icons {
+    width: 100px;
+    height: 100px;
+  }
